@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  DelegatesTest
+//  NotificationsTest
 //
 //  Created by Anton Novoselov on 23/03/2018.
 //  Copyright © 2018 Anton Novoselov. All rights reserved.
